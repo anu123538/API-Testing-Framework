@@ -34,9 +34,6 @@ pip install -r requirements.txt
 
 # Run tests
 pytest -v
-<img width="663" height="169" alt="image" src="https://github.com/user-attachments/assets/90891cc8-feac-42b7-8f49-31ffd685c67f" />
-
-
 
 Example API Used:
 JSONPlaceholder
@@ -44,3 +41,4 @@ JSONPlaceholder
 
 Resume Highlight:
 "Designed Python-based automated test cases to validate REST API endpoints for consistency and correctness."
+<img width="663" height="169" alt="image" src="https://github.com/user-attachments/assets/90891cc8-feac-42b7-8f49-31ffd685c67f" />

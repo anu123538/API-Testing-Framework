@@ -27,7 +27,7 @@ pytest
 How to Run:
 
 # Clone the repo
-git clone 
+git clone https://github.com/anu123538/Pytest-API.git
 
 # Install dependencies
 pip install -r requirements.txt
